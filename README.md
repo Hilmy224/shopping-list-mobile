@@ -1,16 +1,3 @@
-# shopping_list
+# shopping_list App
+<<[LINK](https://build.appcenter.ms/v0.1/apps/4e597822-bad8-4d1a-9e08-549000b3ef79/branches/main/badge)>>
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
